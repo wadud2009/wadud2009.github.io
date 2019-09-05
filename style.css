@@ -1,0 +1,21 @@
+h1 {
+	border: dashed red 10px;
+}
+h2{
+	border: solid orange;
+
+}
+body{
+	background-color: blue;
+	
+}
+p{
+	color: orange;
+	text-decoration: 10px;
+	 
+}
+.id{
+	align-self: center;
+	align-content: center;
+	box-shadow: 10px;
+}
